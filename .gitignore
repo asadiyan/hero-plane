@@ -25,3 +25,7 @@ proguard/
 
 # Log Files
 *.log
+
+# Extra resources
+resources/
+bower_components
